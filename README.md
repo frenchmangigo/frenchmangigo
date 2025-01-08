@@ -23,7 +23,7 @@
 
 ### 🔗 Let's Connect
 - 📫 Email: frenchmangigo@gmail.com
-- 🌐 Portfolio: [My Projects on Vercel](https://portfolio-new-atu.pages.dev)
+- 🌐 Portfolio: [My Projects](https://portfolio-new-atu.pages.dev)
 - 🐦 Twitter: [@ClarenceMangigo](https://twitter.com/FrenchClarence4)
 - 📸 Instagram: [@clarence_codes](https://instagram.com/frenchmangigo)
 
