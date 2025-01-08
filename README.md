@@ -22,7 +22,7 @@
 - Collaborate with other developers on open-source projects.
 
 ### 🔗 Let's Connect
-- 📫 Email: clarence.mangigo@gmail.com
+- 📫 Email: frenchmangigo@gmail.com
 - 🌐 Portfolio: [My Projects on Vercel](https://portfolio-new-atu.pages.dev)
 - 🐦 Twitter: [@ClarenceMangigo](https://twitter.com/FrenchClarence4)
 - 📸 Instagram: [@clarence_codes](https://instagram.com/frenchmangigo)
