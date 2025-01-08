@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - 📚 I'm a Grade 12 student at Valencia National High School, specializing in **Computer System Servicing (CSS)**.
-- 🔧 I have skills in troubleshooting, cable termination, assembling/disassembling system units, and configuring routers.
+- 🔧 I have skills in troubleshooting, coding, basic web design, and configuring routers.
 - 🌐 Passionate about creating efficient technical solutions and exploring the intersection of **technology and education**.
 
 ### 🎯 What I'm Working On
