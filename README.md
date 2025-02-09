@@ -9,7 +9,6 @@
 - 🚀 Building APIs for creative and practical use cases.
 - 🤖 Developing a **Facebook AI Chatbot** to support academic needs.
 - 🎨 Designing websites and exploring **UI/UX** with **Figma**.
-- 💡 Researching **hands-on hardware training** and its impact on students' troubleshooting skills.
 
 ### 🌟 Skills & Interests
 - **Programming**: Python, JavaScript, HTML/CSS
