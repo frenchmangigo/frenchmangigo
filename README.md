@@ -1,47 +1,54 @@
-<!-- Banner -->
+<!-- Glowing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=🔐+French+Clarence+Mangigo;💻+Computer+Science+Student;⚡+Cybersecurity+Major;🚀+Tech+%26+Innovation+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
 <h1 align="center">
-  ✨ Hi there, I'm <span style="color:#38bdf8;">French Clarence Mangigo</span> 👋  
+  <span style="color:#38bdf8;text-shadow:0 0 10px #38bdf8,0 0 20px #0ea5e9;">⚡ Welcome to My CyberSpace ⚡</span>
 </h1>
 
 <h3 align="center">
-  🎓 Computer Science Student @ University of Mindanao  
-  🔐 Major in <span style="color:#a855f7;">Cybersecurity</span>
+  🎓 CS Student @ University of Mindanao <br/>
+  🔐 Major in <span style="color:#a855f7;text-shadow:0 0 10px #a855f7,0 0 20px #9333ea;">Cybersecurity</span>
 </h3>
 
 ---
 
 ## 🌌 About Me
-- 📚 Former **Grade 12 CSS (Computer System Servicing)** student at *Valencia National High School*  
-- 💻 Now pursuing **Computer Science**, major in **Cybersecurity**  
-- 🔧 Skilled in troubleshooting, coding, basic web design, and router configuration  
-- 🌐 Passionate about **cyber defense**, **automation**, and blending **tech with creativity**  
+- 📚 Former **CSS Track Student** at *Valencia NHS*  
+- 💻 Now diving deep into **Cyber Defense & Automation**  
+- 🔧 Passionate about **building bots**, **breaking systems (ethically 😉)**, and **protecting the digital world**  
+- 🎨 Mixes **tech** + **design** → loves Figma & creative UI  
 
 ---
 
-## 🚀 Current Projects
-- 🤖 Building a **Facebook AI Chatbot** for academic + creative use  
-- 🛠️ Developing **APIs** for practical solutions  
-- 🎨 Experimenting with **UI/UX** using **Figma**  
+## 🚀 Projects & Work
+- 🤖 Facebook **AI Chatbot** for learning & fun  
+- 🌐 Building **APIs** to solve real problems  
+- 🎨 UI/UX Prototyping in **Figma** + **Cyberpunk web designs**  
 
 ---
 
-## 🛡️ Skills & Tools
+## 🛡️ Skills Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/3D-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌟 Goals
-- 🌱 Grow from **school projects → professional-level software development**  
-- 🧠 Explore **machine learning** and **social media automation**  
-- 🤝 Contribute to **open-source security tools**  
+- 🌱 Grow from **student projects → pro-level dev**  
+- 🧠 Learn more about **machine learning** + **ethical hacking**  
+- 🤝 Collaborate on **open-source cybersecurity tools**  
 
 ---
 
@@ -56,5 +63,8 @@
 ---
 
 <p align="center">
-  ⚡ *“Securing the digital world, one commit at a time.”* ⚡
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" /><br/>
+  <span style="color:#38bdf8;text-shadow:0 0 10px #38bdf8,0 0 20px #0ea5e9;">
+    ⚡ “Securing the Digital World, One Commit at a Time.” ⚡
+  </span>
 </p>
