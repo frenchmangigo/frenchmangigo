@@ -1,6 +1,6 @@
 <!-- Glowing Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-311c-61fa-bf2e-40d49985e791/raw?se=2025-09-29T15%3A54%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=efce5c51-0812-5208-838d-9644433af530&skoid=1e4bb9ed-6bb5-424a-a3aa-79f21566e722&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-28T21%3A34%3A00Z&ske=2025-09-29T21%3A34%3A00Z&sks=b&skv=2024-08-04&sig=Bxg/WonL//dmUstN9cQsVoXm/2g71OArhQmcxELM71w%3D)" alt="French Clarence Mangigo Banner"/>
+  <img src="https://i.imgur.com/HSUilDf.png" alt="French Clarence Mangigo Banner"/>
 </p>
 
 <p align="center">
